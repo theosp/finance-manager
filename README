@@ -1,0 +1,6 @@
+
+Dependencies:
+    pycrypto (Crypto package): http://www.dlitz.net/software/pycrypto/
+        Used to encrypt bank login details.
+    python-crack (crack package): 
+        Used to check the strength of the password the user choose to access open-leumi with (i.e. the password used to encrypt ~/.open-leumi)
